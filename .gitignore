@@ -1,7 +1,4 @@
 /target/
-/project/target/
-/project/project/
-/.idea/modules/
-/.idea/libraries/
-/.idea/.gitignore
+/project/
+/.idea/
 /src/main/resources/config/iam_credentials.txt

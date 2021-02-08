@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DocxAnonymizer.iml" filepath="$PROJECT_DIR$/.idea/modules/DocxAnonymizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DocxAnonymizer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/DocxAnonymizer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Module 2.DocxAnonymizer.iml" filepath="$PROJECT_DIR$/.idea/modules/Module 2.DocxAnonymizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.DocxAnonymizer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.DocxAnonymizer-build.iml" />
     </modules>
   </component>
 </project>

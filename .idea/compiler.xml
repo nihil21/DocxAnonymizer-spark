@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
       <module name="DocxAnonymizer" target="1.8" />
+      <module name="Module 2.DocxAnonymizer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
