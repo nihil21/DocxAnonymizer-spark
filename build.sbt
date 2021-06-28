@@ -1,10 +1,10 @@
 name := "DocxAnonymizer"
 
-version := "0.1"
+version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.14"
 
-val sparkVersion = "2.4.3"
+val sparkVersion = "3.1.2"
 
 javacOptions ++= Seq("-source", "1.8", "-target", "1.8", "-Xlint")
 
@@ -16,8 +16,8 @@ assemblyMergeStrategy in assembly := {
 }
 
 libraryDependencies ++= Seq(
-  "org.apache.spark" % "spark-core_2.11" % sparkVersion % Provided,
+  "org.apache.spark" % "spark-core_2.12" % sparkVersion,
   "org.docx4j" % "docx4j" % "6.1.2",
   "commons-cli" % "commons-cli" % "1.2",
-  "com.amazonaws" % "aws-java-sdk" % "1.11.775" % Provided
+  "com.amazonaws" % "aws-java-sdk" % "1.11.775"
 )
